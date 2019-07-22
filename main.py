@@ -1,2 +1,6 @@
-#This is an example project
-#This is the second modification
+#!/usr/bin/python3
+
+def main(msg):
+    print(msg)
+
+main("Hello People")
